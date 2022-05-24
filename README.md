@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Nathalia Troina</h1>
+<h1 align="center">Hi, I'm Nathalia Troina</h1>
 <h3 align="center">Front End Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathalia-lt&label=Profile%20views&color=0e75b6&style=flat" alt="nathalia-lt" /> </p>
 
-- 🌱 I’m currently learning **Frameworks and courses**
+- 🌱 I’m currently learning **Algorithms**
 
-- 💬 Ask me about **JavaScript, React and Python**
+- 💬 Ask me about **JavaScript, React**
 
 - 📫 How to reach me **nathaliatroina@gmail.com**
 
