@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Algorithms**
 
-- 👩🏻‍💻 My last project was **Books & Co.** an webpage where you can find your next favorite book.
+- 👩🏻‍💻 My last project was **Books & Co.** a webpage where you can find your next favorite book.
 
 - 💬 Ask me about **JavaScript, React**
 
