@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Algorithms**
 
+- 👩🏻‍💻 My last project was **Books & Co.** an webpage where you can find your next favorite book.
+
 - 💬 Ask me about **JavaScript, React**
 
 - 📫 How to reach me **nathaliatroina@gmail.com**
