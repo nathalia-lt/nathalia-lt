@@ -1,9 +1,11 @@
 <h1 align="center">Hi, I'm Nathalia Troina</h1>
-<h3 align="center">Front End Engineer</h3>
+<h3 align="center"> I'm a Front End Engineer Currently Looking For Employment Opportunities</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathalia-lt&label=Profile%20views&color=0e75b6&style=flat" alt="nathalia-lt" /> </p>
 
 - 🌱 I’m currently learning **Algorithms**
+ 
+- 📱 My portfolio: https://nathalia-lt.github.io/
 
 - 👩🏻‍💻 My last project was **Books & Co.** a webpage where you can find your next favorite book.
 
